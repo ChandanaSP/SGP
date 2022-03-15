@@ -1,0 +1,32 @@
+{
+ "custom_fields": [],
+ "custom_perms": [],
+ "doctype": "Party Account",
+ "property_setters": [
+  {
+   "_assign": null,
+   "_comments": null,
+   "_liked_by": null,
+   "_user_tags": null,
+   "creation": "2022-02-23 08:55:36.738134",
+   "default_value": null,
+   "doc_type": "Party Account",
+   "docstatus": 0,
+   "doctype_or_field": "DocField",
+   "field_name": "account",
+   "idx": 0,
+   "modified": "2022-02-23 08:55:36.738134",
+   "modified_by": "Administrator",
+   "name": "Party Account-account-default",
+   "owner": "Administrator",
+   "parent": null,
+   "parentfield": null,
+   "parenttype": null,
+   "property": "default",
+   "property_type": "Text",
+   "row_name": null,
+   "value": "Debtors - WKS"
+  }
+ ],
+ "sync_on_migrate": 1
+}
